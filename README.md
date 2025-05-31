@@ -37,7 +37,7 @@ git clone https://github.com/yourusername/portfolio-optimizer-demo.git
 cd portfolio-optimizer-demo
 pip install -r requirements.txt
 streamlit run app/main.py
-
+'''
 
 
 ## 🌍 Live Demo
