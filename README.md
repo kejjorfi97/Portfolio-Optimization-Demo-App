@@ -37,3 +37,17 @@ git clone https://github.com/yourusername/portfolio-optimizer-demo.git
 cd portfolio-optimizer-demo
 pip install -r requirements.txt
 streamlit run app/main.py
+```
+
+## 🌍 Live Demo
+🔗 Click here to launch the app ([link to the app](https://portfolio-optimization-demo-app.streamlit.app/))
+
+## 📸 Screenshot
+![App Preview](screenshot.png)
+
+## 📄 License
+MIT License. Use, break, or improve, just don’t sell it to Goldman Sachs without telling me.
+
+## 🤝 Let's Connect
+If you're a recruiter or hiring manager, feel free to reach out.
+This demo is just the beginning.
