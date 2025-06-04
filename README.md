@@ -33,8 +33,8 @@ A minimal yet powerful portfolio analytics app designed to showcase optimization
 To run the app locally:
 
 ```bash
-git clone https://github.com/yourusername/portfolio-optimizer-demo.git
-cd portfolio-optimizer-demo
+git clone https://github.com/kejjorfi97/Portfolio-Optimization-Demo-App.git
+cd Portfolio-Optimization-Demo-App
 pip install -r requirements.txt
 streamlit run app/main.py
 ```
@@ -51,3 +51,9 @@ MIT License. Use, break, or improve, just don’t sell it to Goldman Sachs witho
 ## 🤝 Let's Connect
 If you're a recruiter or hiring manager, feel free to reach out.
 This demo is just the beginning.
+
+## 👤 Author
+
+Developed by **Khalil EJ-JORFI**  
+🔗 [LinkedIn](https://www.linkedin.com/in/khalil-ej-jorfi-262291146/)  
+💻 [GitHub](https://github.com/kejjorfi97)
